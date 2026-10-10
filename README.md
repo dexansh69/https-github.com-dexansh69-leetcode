@@ -65,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dexansh69/https-github.com-dexansh69-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dexansh69/https-github.com-dexansh69-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dexansh69/https-github.com-dexansh69-leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dexansh69/https-github.com-dexansh69-leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
